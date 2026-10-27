@@ -1,0 +1,6 @@
+{
+  "name": "ScholarForge: AI Research Paper Agent",
+  "description": "An academic research assistant for systematic literature reviews, evidence matrix synthesis, research gap discovery, verified citation tracking, and structured academic paper drafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
